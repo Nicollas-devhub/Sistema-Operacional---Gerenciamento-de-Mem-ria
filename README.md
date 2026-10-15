@@ -1,0 +1,1 @@
+# Sistema-Operacional---Gerenciamento-de-Mem-ria
