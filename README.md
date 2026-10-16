@@ -29,3 +29,5 @@ https://youtu.be/ZUe8Jp8H4RE?si=pXyf5W2cYWWVWWFb
 
 # Livros ou artigos: https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf
 https://professor.pucgoias.edu.br/SiteDocente/admin/arquivosUpload/17785/material/AULA%2014%20-%20Memria%20Virtual.pdf
+
+![](image.png)
